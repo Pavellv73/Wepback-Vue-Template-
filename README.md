@@ -1,4 +1,4 @@
-# keep
+# Шаблон приложения на Vue CLI.
 
 ## Project setup
 ```
@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Plugins
+
+scss-loader
+pug-loader
